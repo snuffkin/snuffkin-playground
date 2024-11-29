@@ -1,6 +1,6 @@
 [project]
 name = "snuffkin-playground"
-version = "0.1.0"
+version = "0.1.1"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -10,7 +10,7 @@ dependencies = [
 
 [project.urls]
 homepage = "https://github.com/snuffkin/snuffkin-playground/blob/main/README.md"
-documentation = "https://readthedocs.org"
+documentation = "https://github.com/snuffkin/snuffkin-playground"
 repository = "https://github.com/snuffkin/snuffkin-playground"
 
 [tool.uv]

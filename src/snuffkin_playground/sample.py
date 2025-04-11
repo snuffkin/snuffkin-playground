@@ -1,4 +1,4 @@
 def sample():
-    return "Hello"
+    return "Hello3"
 
-sample()
+print(sample())
